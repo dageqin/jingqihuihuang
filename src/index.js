@@ -49,7 +49,7 @@ function addMapControl() {
 }
 
 //文字标注数组
-var lbPoints = [{point: "116.604205|39.916966", content: "京旗辉煌（北京）商务服务有限公司"}
+var lbPoints = [{point: "116.604205|39.916966", content: "京旗辉煌（北京）财务咨询有限公司"}
 ];
 //向地图中添加文字标注函数
 function addRemark() {

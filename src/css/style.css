@@ -6,7 +6,9 @@ html, body {
     margin: 0;
     padding: 0;
 }
-
+.nav-link{
+    padding: 0.5rem !important;
+}
 .iw_poi_title {
     color: #CC5522;
     font-size: 14px;
